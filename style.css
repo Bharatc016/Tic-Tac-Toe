@@ -29,5 +29,33 @@ body{
     height:18vmin;
     width:18vmin; 
     border-radius: 1rem;
-       
+    border:none;
+    font-size: 8vmin;
+    color:black;
+    background-color: white;
+
+}
+
+#reset{
+    padding:1rem;
+    border-radius: 1rem;
+    font-size: 1rem;
+    border:none;
+}
+
+#btn1{
+    padding:1rem;
+    border-radius: 1rem;
+    font-size: 1rem;
+    border:none;
+    margin:1rem;
+}
+
+.msg-container{
+    height:10vmin;
+    font-size:5vmin;
+}
+
+.hide{
+    display:none;
 }
